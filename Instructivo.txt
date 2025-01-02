@@ -1,4 +1,4 @@
-1.1. Asegurese de tener instalado el interprete de Lua 
+1. Asegurese de tener instalado el interprete de Lua 
 para poder ejecutar el codigo en la terminal.
 1.1 Video de como hacerlo: https://youtu.be/4IlMvmCZ9I8?si=DzJPPmdnpVCy4VcX
 
