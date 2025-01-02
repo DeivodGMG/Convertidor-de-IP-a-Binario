@@ -1,0 +1,14 @@
+1.1. Asegurese de tener instalado el interprete de Lua 
+para poder ejecutar el codigo en la terminal.
+1.1 Video de como hacerlo: https://youtu.be/4IlMvmCZ9I8?si=DzJPPmdnpVCy4VcX
+
+2. Teniendo esto en cuenta, escriba en la terminal: lua main.lua 
+,haciendo esto, ya estaria corriendo el programa :D.
+
+3. Si llega a escribir un caracter de tipo "texto" durante la conversion de ip,
+le arrojara un error y lo sacara del programa.
+
+4. Este codigo solo funciona con las IPv4.
+--------------------------------------------------------
+***Creditos***
+- DeivodGMG (David Ibarra)
