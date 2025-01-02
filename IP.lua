@@ -1,4 +1,5 @@
 require("Manager")
+require("Error")
 function Ip_Binan()
   os.execute("cls")
 for i = 1, 4,1 do
@@ -22,9 +23,8 @@ for i = 1, 4,1 do
   end
 end)--pcall
 if ok == false then
-  print(":( Algo salio mal")
-print(mensaje)
-os.exit()
+  UpsError()
+break
 end
 end
 print("--------------------------------------")
